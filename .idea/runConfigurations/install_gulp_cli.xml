@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="install gulp-cli" type="js.build_tools.npm">
+    <package-json value="$PROJECT_DIR$/package.json" />
+    <command value="install" />
+    <arguments value="gulp-cli -g" />
+    <node-interpreter value="$USER_HOME$/.nvm/versions/node/v16.17.0/bin/node" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
